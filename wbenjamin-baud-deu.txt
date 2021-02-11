@@ -20,19 +20,19 @@ die Rücksicht auf den Aufnehmenden für deren Erkenntnis fruchtbar. Nicht
 genug, daß jede Beziehung auf ein bestimmtes Publikum oder dessen Re-
 präsentanten vom Wege abführt, ist sogar der Begriff eines ‚idealen‘ Auf-
 nehmenden in allen kunsttheoretischen Erörterungen vom Übel, weil diese
-lediglich gehalten sind, Dasein und WVesen des Menschen überhaupt voraus-
+lediglich gehalten sind, Dasein und Wesen des Menschen überhaupt voraus-
 zusetzen. So setzt auch die Kunst selbst dessen leibliches und geistiges --
 Wesen voraus — seine Aufmerksamkeit aber in keinem ihrer Werke. Denn
 kein Gedicht gilt dem Leser, kein Bild dem Beschauer, keine Symphonie
 der Hörerschaft,
 
 Gilt eine Übersetzung den Lesern, die das Original nicht verstehen?
-Das scheint hinreichend den\Rangunterschied im Bereiche der Kunst zwischen
+Das scheint hinreichend den Rangunterschied im Bereiche der Kunst zwischen
 beiden zu erklären. Überdies scheint es der einzig mögliche Grund, ‚Das-
 selbe‘ wiederholt zu sagen. Was ‚sagt‘ denn eine Dichtung? Was teilt sie
-mit?\Sehr wenig dem, der sie versteht. Ihr Wesentliches ist nicht Mitteilung,
+mit? Sehr wenig dem, der sie versteht. Ihr Wesentliches ist nicht Mitteilung,
 nicht Aussage. Dennoch könnte diejenige Übersetzung, welche vermitteln
-will, nichts vermitteln als die Mitteilung — also Unwesentliches, Das ist denn
+will, nichts vermitteln als die Mitteilung — also Unwesentliches. Das ist denn
 auch ein Erkennungszeichen der schlechten Übersetzungen. Was aber außer
 der Mitteilung in einer Dichtung steht — und auch der schlechte Übersetzer
 gibt zu, daß es das Wesentliche ist — gilt es nicht allgemein als das Unfaß-
@@ -49,7 +49,6 @@ aus dieser Beziehung verstehen?
 angehen auf das Original. Denn in ihm liegt deren Gesetz als in dessen
 Übersetzbarkeit beschlossen. Die Frage nach der Übersetzbarkeit eines Werkes
 ist doppelsinnig. Sie kann bedeuten: ob es unter der Gesamtheit seiner
-
 Leser je seinen zulänglichen Übersetzer finden werde? oder, und eigentlicher:
 
 vi
@@ -140,7 +139,7 @@ Sprachen einander nicht fremd, sondern a priori und von allen historischen
 Beziehungen abgesehen einander in dem verwandt sind, was sie sagen wollen.
 
 IX
- 
+
 
 Mit diesem Erklärungsversuch scheint allerdings die Betrachtung auf
 vergeblichen Umwegen wieder in die herkömmliche Theorie der Übersetzung
@@ -358,13 +357,13 @@ zusammenfügen zu lassen, in den kleinsten Einzelheiten einander zu folgen,
 
 XIV
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 doch nicht so zu gleichen haben, so muß, anstatt dem Sinn des Originals
 sich ähnlich zu machen, die Übersetzung liebend vielmehr und bis ins Ein-
 zelne hinein dessen Art des Meinens in der eigenen Sprache sich anbilden,
@@ -451,11 +450,11 @@ durch die fremde erweitern und vertiefen, man hat keinen begriff, in welchem
 
 XV
 
- 
 
- 
 
- 
+
+
+
 maße das möglich ist, bis zu welchem grade jede sprache sich verwandeln
 kann, sprache von sprache fast nur wie mundart von mundart sich unter-
 scheidet, dieses aber nicht, wenn man sie allzu leicht, sondern gerade wenn
@@ -536,7 +535,7 @@ De tirer un soleil de mon coeur, et de faire
 
 De mes pensers brülants une tiede atmosphere.
 
- 
+
 LANDSCHAFT
 
 ch will um meinen Strophenbau zu läutern
@@ -888,9 +887,9 @@ Se projetait, pareille & celle de Judas.
 
 1%
 
- 
 
- 
+
+
 DIE SIEBEN GREISE
 VICTOR HUGO GEWIDMET
 immelnde Stadt, Stadt die erfüllt von Träumen
@@ -1303,7 +1302,7 @@ Uralte Even unter Gottes Pranke?
 (5 mon äme; ıls sont vraiment affreux!
 Pareils aux mannequins; vaguement ridicules;
 
- 
+
 
 Terribles, singuliers comme les somnambules:
 
@@ -1323,11 +1322,11 @@ Eprise du plaisir jusqu’a Patrocite,
 Vois! je me traine aussi! mais, plus qu’eux hebete,
 Je dis: Que cherchent-ils au Ciel, tous ces aveugles?
 
- 
+
 
 28
 
- 
+
 DIE BLINDEN
 
 etrachte sie, mein Herz; sie sind ein Grauen!
@@ -1375,7 +1374,7 @@ OÖ toi que j’eusse aimee, 6 toi qui le savais!
 
 30
 
- 
+
 
 Ä
 ‚
@@ -2308,7 +2307,7 @@ Sonnait brutalement midi,
 Et le ciel versait des tenebres
 Sur le triste monde engourdi.
 
- 
+
 Kein Stern — und selbst die tiefsten Sphären
 Des Himmels ohne Sonnenlicht
 Um jene Wunder zu verklären
