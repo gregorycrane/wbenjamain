@@ -4,10 +4,10 @@ The goal here is to demonstrate the generality of methods developed for Open Gre
 
 # Versions
 
-wbenjamin.art01-de.txt -- the original 1935 edition as (for now) uncorrected OCR-generated text
-wbenjamin.art-fr.txt -- the unauthorized French translation of the 1935 version, unccorrected OCR-generated text
-wbenjamin.art03-de.xml -- the 1939 edition in XML with initial numbering of sentences
-https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm -- a transcription of the 1968 English translation.
+- wbenjamin.art01-de.txt -- the original 1935 edition as (for now) uncorrected OCR-generated text
+- wbenjamin.art-fr.txt -- the unauthorized French translation of the 1935 version, unccorrected -OCR-generated text
+- wbenjamin.art03-de.xml -- the 1939 edition in XML with initial numbering of sentences
+- https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm -- a transcription of the 1968 English translation.
 
 
 
