@@ -2,6 +2,16 @@
 
 The goal here is to demonstrate the generality of methods developed for Open Greek and Latin in general and for Homer in particular. This reflects not only the rapid expansion of digital technology but also a sudden expansion in the power, and potential impact, of a philological tradition that extends thousands of years into the past. To explore these methods, we have chosen two works by Walter Benjamin: his essay on the Work of Art in an Age of Mechanical Representation and an edition of Baudelaire' Tableaux Parisiens that includes not only both the French original and German translation but an essay by Benjamin on the task of the translator. While these two works allow us to illustrate new practices of reading and reflection, the content of both of these works clearly provokes reflection on the shift to a digital medium.
 
+# Versions
+
+wbenjamin.art01-de.txt -- the original 1935 edition as (for now) uncorrected OCR-generated text
+wbenjamin.art-fr.txt -- the unauthorized French translation of the 1935 version, unccorrected OCR-generated text
+wbenjamin.art03-de.xml -- the 1939 edition in XML with initial numbering of sentences
+https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm -- a transcription of the 1968 English translation.
+
+
+
+
 ## Background
 
 Increasingly powerful digital methods for close reading have made possible new ways for us to work with more languages than we could every hope to master. We have now already in place a middle path between mastery of a foreign language and complete reliance upon translation into a language that we can understand. Translation, in some fashion, may remain essential but translation undergoes a fundamental role in its relationship to the original: the translation is not a static barrier but also an entry point directly into source text upon which it is based. Our goal is draw the minds of the readers past the translation -- or translations (for multiple translations should be seen as the default goal in any truly digital space) -- and embrace the source, not just as a text, but as a living entity, to be spoken and lived.
@@ -12,4 +22,7 @@ Homer also served as a useful starting point because the dense network in increa
 
 ## Tasks
 ### The Work of Art in an Age of Mechanical Reproduction.
+
+#### Converting the French translation into TEI XML
+
 ### The duty of the translator and the Tableaux Parisiens
