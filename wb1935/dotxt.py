@@ -1,0 +1,55 @@
+import re
+
+def dofile(fname):
+  f = open(fname)
+  basename = re.sub('^0+','',fname)
+  basename = re.sub('\.txt','',basename)
+  print('<pb n="'+basename+'"/>')
+  #outf = open(basename,'w')
+  lnum = 434
+  
+  for l in f:
+    l = re.sub('[\\n\\r]','',l)
+    if(re.search('^\\s*$',l)):
+     continue
+    lnum = lnum + 1
+    #print(basename+ "." + str(lnum),l,sep='\t')
+    print(l,sep='\t')
+  f.close()
+  #outf.close()
+
+dofile("435.txt")
+dofile("436.txt")
+dofile("437.txt")
+dofile("438.txt")
+dofile("439.txt")
+dofile("440.txt")
+dofile("441.txt")
+dofile("442.txt")
+dofile("443.txt")
+dofile("444.txt")
+dofile("445.txt")
+dofile("446.txt")
+dofile("447.txt")
+dofile("448.txt")
+dofile("449.txt")
+dofile("450.txt")
+dofile("451.txt")
+dofile("452.txt")
+dofile("453.txt")
+dofile("454.txt")
+dofile("455.txt")
+dofile("456.txt")
+dofile("457.txt")
+dofile("458.txt")
+dofile("459.txt")
+dofile("460.txt")
+dofile("461.txt")
+dofile("462.txt")
+dofile("463.txt")
+dofile("464.txt")
+dofile("465.txt")
+dofile("466.txt")
+dofile("467.txt")
+dofile("468.txt")
+dofile("469.txt")
